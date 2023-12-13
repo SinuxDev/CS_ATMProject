@@ -1,0 +1,30 @@
+D:\C# NCC\6.Topic 6\Topic6_Example\Topic6_Example\bin\Debug\Topic6_Example.exe.config
+D:\C# NCC\6.Topic 6\Topic6_Example\Topic6_Example\bin\Debug\Topic6_Example.exe
+D:\C# NCC\6.Topic 6\Topic6_Example\Topic6_Example\bin\Debug\Topic6_Example.pdb
+D:\C# NCC\6.Topic 6\Topic6_Example\Topic6_Example\obj\Debug\Topic6_Example.csproj.AssemblyReference.cache
+D:\C# NCC\6.Topic 6\Topic6_Example\Topic6_Example\obj\Debug\Topic6_Example.Form1.resources
+D:\C# NCC\6.Topic 6\Topic6_Example\Topic6_Example\obj\Debug\Topic6_Example.Properties.Resources.resources
+D:\C# NCC\6.Topic 6\Topic6_Example\Topic6_Example\obj\Debug\Topic6_Example.csproj.GenerateResource.cache
+D:\C# NCC\6.Topic 6\Topic6_Example\Topic6_Example\obj\Debug\Topic6_Example.csproj.CoreCompileInputs.cache
+D:\C# NCC\6.Topic 6\Topic6_Example\Topic6_Example\obj\Debug\Topic6_Example.exe
+D:\C# NCC\6.Topic 6\Topic6_Example\Topic6_Example\obj\Debug\Topic6_Example.pdb
+D:\C# NCC\9.Topic 9\Topic9_Copy\Topic6_Example\bin\Debug\Topic6_Example.exe.config
+D:\C# NCC\9.Topic 9\Topic9_Copy\Topic6_Example\bin\Debug\Topic6_Example.exe
+D:\C# NCC\9.Topic 9\Topic9_Copy\Topic6_Example\bin\Debug\Topic6_Example.pdb
+D:\C# NCC\9.Topic 9\Topic9_Copy\Topic6_Example\obj\Debug\Topic6_Example.csproj.AssemblyReference.cache
+D:\C# NCC\9.Topic 9\Topic9_Copy\Topic6_Example\obj\Debug\Topic6_Example.Form1.resources
+D:\C# NCC\9.Topic 9\Topic9_Copy\Topic6_Example\obj\Debug\Topic6_Example.Properties.Resources.resources
+D:\C# NCC\9.Topic 9\Topic9_Copy\Topic6_Example\obj\Debug\Topic6_Example.csproj.GenerateResource.cache
+D:\C# NCC\9.Topic 9\Topic9_Copy\Topic6_Example\obj\Debug\Topic6_Example.csproj.CoreCompileInputs.cache
+D:\C# NCC\9.Topic 9\Topic9_Copy\Topic6_Example\obj\Debug\Topic6_Example.exe
+D:\C# NCC\9.Topic 9\Topic9_Copy\Topic6_Example\obj\Debug\Topic6_Example.pdb
+D:\C# NCC\Topic11_Copy\Topic6_Example\bin\Debug\Topic6_Example.exe.config
+D:\C# NCC\Topic11_Copy\Topic6_Example\bin\Debug\Topic6_Example.exe
+D:\C# NCC\Topic11_Copy\Topic6_Example\bin\Debug\Topic6_Example.pdb
+D:\C# NCC\Topic11_Copy\Topic6_Example\obj\Debug\Topic6_Example.csproj.AssemblyReference.cache
+D:\C# NCC\Topic11_Copy\Topic6_Example\obj\Debug\Topic6_Example.Form1.resources
+D:\C# NCC\Topic11_Copy\Topic6_Example\obj\Debug\Topic6_Example.Properties.Resources.resources
+D:\C# NCC\Topic11_Copy\Topic6_Example\obj\Debug\Topic6_Example.csproj.GenerateResource.cache
+D:\C# NCC\Topic11_Copy\Topic6_Example\obj\Debug\Topic6_Example.csproj.CoreCompileInputs.cache
+D:\C# NCC\Topic11_Copy\Topic6_Example\obj\Debug\Topic6_Example.exe
+D:\C# NCC\Topic11_Copy\Topic6_Example\obj\Debug\Topic6_Example.pdb
